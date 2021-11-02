@@ -1,4 +1,4 @@
-# Tea Leaf Quality Srilanka  Chapter
+# Tea Leaf Quality
 
 This repo contains the Flask API to expose model and get predictions.
 
