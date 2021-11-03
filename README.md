@@ -9,7 +9,7 @@ This repo contains the Flask API to expose model and get predictions.
 3. Hosting the model in server side using Flask Framework
 4. Now Flask API can be consumend by mobile app.
 
-## Flask Api Deployment in Azure App service
+## Flask Api Deployment in Azure App Service
 
 1. Flask code
 1. Run and check in local
